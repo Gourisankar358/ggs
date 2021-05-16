@@ -3,3 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/grihafpb/consultant.grihanirmanguide.com/
     - /bin/cp * $DEPLOYPATH
+
+    
